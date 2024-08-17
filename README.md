@@ -1,3 +1,8 @@
+## RUST-AXUM-SERVICE
+
+Example of REST API, reading and writing from Postgres, written in Rust and using the Axum framework
+
+
 ### Build service docker
 ```
 docker build --progress=plain -t rust-axum-postgres .
